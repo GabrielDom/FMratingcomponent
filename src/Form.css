@@ -6,6 +6,24 @@ form {
   margin-top: 1em;
 }
 
+.star {
+  border-radius: 50%;
+  background-color: hsl(214, 42%, 27%);
+  width: 3em;
+  padding: 0.7rem;
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 2em;
+  margin-top: 5%;
+}
+
+p {
+  color: hsl(217, 12%, 63%);
+  margin-top: 2%;
+}
+
 .row {
   display: flex;
   gap: 2em;

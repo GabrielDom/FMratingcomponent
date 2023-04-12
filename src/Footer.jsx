@@ -12,7 +12,6 @@ export const Footer = () => {
       <a href="https://github.com/GabrielDom">
         GND <span>👨‍💻</span>{" "}
       </a>
-      .
     </footer>
   );
 };

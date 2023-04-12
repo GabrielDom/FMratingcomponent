@@ -54,7 +54,6 @@ export const Form = () => {
 
   const handleClick = (valor) => {
     setSeleccionado(valor);
-    console.log(valor);
   };
 
   const handleSubmit = (event) => {

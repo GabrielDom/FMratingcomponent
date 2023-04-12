@@ -3,20 +3,22 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 2em;
+  padding: 0.2em;
   gap: 1.5em;
 }
 
 .badge {
   color: hsl(25, 97%, 53%);
-  background-color: hsl(214, 42%, 27%);
+  background-color: hsl(213, 19%, 18%);
   padding: 0.8em 1em;
   border-radius: 40px;
 }
 
-.success p {
+.success .p {
   color: hsl(217, 12%, 63%);
   text-align: center;
+  line-height: 1.5em;
+  margin: 0;
 }
 
 .thanks {
