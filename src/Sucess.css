@@ -1,0 +1,24 @@
+.success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+  gap: 1.5em;
+}
+
+.badge {
+  color: hsl(25, 97%, 53%);
+  background-color: hsl(214, 42%, 27%);
+  padding: 0.8em 1em;
+  border-radius: 40px;
+}
+
+.success p {
+  color: hsl(217, 12%, 63%);
+  text-align: center;
+}
+
+.thanks {
+  width: 10em;
+}
